@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AuraSculpt</string>
+    <string name="content_name">AuraSculpt "\n"Facilities : "\n"1) Medispa  Cryo"\n"2)Fat Freeze"\n"3)cellulite Reduction"\n"4)toning"\n"5)Anti-Aging"\n"6)Anti-Wrinkle"\n"7)Laser Hair Removal"\n"8)Fractional Laser"\n"9)Sun Spot Removal"\n"10)tightening and many more. </string>
+    <string name="address">1482 Northern Blvd Manhasset, New York 11030 United States</string>
+    <string name="site_url">Www.aurasculpt.com</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>9:00AM-5:00PM Sunday</item>
+        <item>Close Monday</item>
+        <item>9:00AM-5:00PM Tuesday</item>
+        <item>9:00AM-5:00PM Wednesday</item>
+        <item>9:00AM-5:00PM Thursday</item>
+        <item>9:00AM-5:00PM Friday</item>
+        <item>9:00AM-5:00PM Saturday</item>
+
+    </string-array>
+</resources>
